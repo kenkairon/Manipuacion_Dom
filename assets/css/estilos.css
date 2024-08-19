@@ -1,0 +1,11 @@
+/* Estilos adicionales para una mejor visualización */
+#text1 {
+    background-color: #8a2be2;
+}
+#text2 {
+    background-color: #ff7f50;
+    display: none; /* Inicialmente oculto */
+}
+#caja3 {
+    transition: font-size 0.3s ease;
+}
