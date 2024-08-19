@@ -1,6 +1,4 @@
 
-Aquí tienes el README para el ejercicio de manipulación del DOM con JavaScript:
-
 CUE: MANIPULACIÓN DEL DOM CON JAVASCRIPT
 REBOUND EXERCISE: MANIPULANDO EL DOM
 Para resolver este ejercicio, debe haber revisado la lectura y los videos de la CUE "Manipulación del DOM con JavaScript".
